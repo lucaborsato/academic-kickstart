@@ -1,3 +1,8 @@
+# LUCA BORSATO WEBSITE
+
+My personal website in [hugo](https:gohugo.io) with theme based on `Academic` (this is a fork of the `academic-kickstart).  
+
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
